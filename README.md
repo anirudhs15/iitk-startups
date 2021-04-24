@@ -1,2 +1,2 @@
-# E-Cell
-Website for Entrepreneurship Cell, IIT Kanpur
+# E-Cell IITK Startups
+Not hosted , no pics , designs
