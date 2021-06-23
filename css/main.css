@@ -2076,19 +2076,19 @@
   }
     @media only screen and (max-width: 1400px) {
    #services .services-list .service-item {
-     flex-basis: 25%;
+     flex-basis: 22%;
      padding: 0 35px;
    }
  }
  @media only screen and (max-width: 900px){
    #services .services-list .service-item {
-    flex-basis: 25%;
+    flex-basis: 22%;
      padding: 0 30px; 
    }
  }
  @media only screen and (max-width: 768px){
    #services {
-     flex-basis: 25%;
+     flex-basis: 22%;
      /* padding: 12rem 0 12rem; */
    }
    #services .services-content {
@@ -2103,7 +2103,7 @@
  }
  @media only screen and (max-width: 600px) {
    #services .services-list .service-item {
-     flex-basis: 50%;
+     flex-basis: 45%;
      padding: 0 10px;
    }
    #services .services-list .icon i {
