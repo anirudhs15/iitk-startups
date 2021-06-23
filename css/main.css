@@ -2103,7 +2103,7 @@
  }
  @media only screen and (max-width: 600px) {
    #services .services-list .service-item {
-     flex-basis: 45%;
+     flex-basis: 41%;
      padding: 0 10px;
    }
    #services .services-list .icon i {
