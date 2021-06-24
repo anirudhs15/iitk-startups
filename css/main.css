@@ -2070,9 +2070,10 @@
   * ------------------------------------------------------------------- */
   @media screen {
     #services.services-list{
+     width:100%;
       display: flex;
-       -ms-flex-wrap: wrap; 
-     justify-content:center ;
+       -ms-flex-wrap: wrap;
+     justify-content:space-around ;
     }
   }
     @media only screen and (max-width: 1400px) {
