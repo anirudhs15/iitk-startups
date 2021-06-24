@@ -2072,6 +2072,7 @@
     #services.services-list{
       display: flex;
        -ms-flex-wrap: wrap; 
+     justify-content:center ;
     }
   }
     @media only screen and (max-width: 1400px) {
